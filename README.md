@@ -16,4 +16,4 @@
 - [react](https://github.com/facebook/react): 前端框架
 - [swr](https://github.com/vercel/swr): 用于数据请求的 React Hooks 库
 - [nextui](https://github.com/nextui-org/nextui): react ui库
-- [axios](https://github.com/axios/axios): 数据请求库
+- [axios](https://github.com/axios/axios): 数据请求库 
